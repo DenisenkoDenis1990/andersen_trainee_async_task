@@ -14,4 +14,4 @@ Task:
     { id: 2, name: 'Bob', posts: [ [Object] ] }
 ]
 ```
-- Could you make this function run less then 3.5 seconds?
+- Could you make this function run less than 3.5 seconds?
